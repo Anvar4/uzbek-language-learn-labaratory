@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# SEO optimization for Search Engines
+Sitemap: /sitemap.xml
+Allow: /
+
+User-agent: *
+Allow: /
